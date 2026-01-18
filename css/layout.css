@@ -1,0 +1,67 @@
+/* 
+   HERO SECTION
+*/
+
+.hero {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  padding: 0 8%;
+  position: relative;
+  overflow: hidden;
+}
+
+/* LEFT CONTENT */
+.hero-content {
+  max-width: 520px;
+  animation: fadeUp 1s ease forwards;
+}
+
+.hero-role {
+  color: var(--secondary-red);
+  letter-spacing: 2px;
+  font-size: 14px;
+  margin-bottom: 16px;
+}
+
+.hero-content h1 {
+  font-size: 52px;
+  color: var(--white);
+  line-height: 1.2;
+}
+
+.hero-content h1 span {
+  color: var(--secondary-red);
+}
+
+.hero-description {
+  margin-top: 20px;
+  color: var(--text-light);
+  font-size: 16px;
+}
+
+/* RIGHT IMAGE */
+.hero-image {
+  position: sticky;
+  top: 120px; /* it keep image visible while scrolling  */
+}
+
+.hero-image img {
+  width: 420px;
+  max-width: 100%;
+  border-radius: 12px;
+}
+
+/* ANIMATION */
+@keyframes fadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
