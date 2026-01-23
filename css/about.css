@@ -1,6 +1,4 @@
-/* 
-About & Skills Section 
-*/
+/* About & Skills Section */
 
 .section {
   padding: 80px 0;
@@ -14,11 +12,11 @@ About & Skills Section
 }
 
 #about {
-  background-color: #0a192f; /* dark blue */
+  background-color: #020c1b;
 }
 
 .about-text {
-  max-width: 700px;
+  max-width: 900px;
   margin: 0 auto 16px;
   text-align: center;
   color: #ccd6f6;
@@ -27,8 +25,8 @@ About & Skills Section
 
 .about-focus {
   text-align: center;
-  color: #ff4c4c; /* red accent */
-  font-weight: 600;
+  color: #ff4c4c; 
+  font-weight: 800;
 }
 
 /* Skills section */
@@ -66,7 +64,12 @@ About & Skills Section
   margin-bottom: 8px;
 }
 
-/* Reveal animation of about & skill section */
+.skill-category:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 10px 30px rgba(255, 76, 76, 0.2);
+}
+
+/* Reveal flow when scrool form hero */
 .hidden {
   opacity: 0;
   transform: translateY(40px);
