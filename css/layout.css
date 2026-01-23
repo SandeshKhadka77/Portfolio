@@ -17,13 +17,16 @@
 .hero-content {
   max-width: 520px;
   animation: fadeUp 1s ease forwards;
+  
 }
 
 .hero-role {
   color: var(--secondary-red);
-  letter-spacing: 2px;
-  font-size: 14px;
+  letter-spacing: 1px;
   margin-bottom: 16px;
+  font-family: 'poppins' sans-serif;
+  font-size: 35px;
+  font-weight: 700;
 }
 
 .hero-content h1 {
@@ -42,10 +45,11 @@
   font-size: 16px;
 }
 
-/* RIGHT IMAGE */
+/* RIGHT SIDE HERO IMAGE */
 .hero-image {
   position: sticky;
-  top: 120px; /* it keep image visible while scrolling  */
+  top: 120px; 
+  border-bottom: 100px;
 }
 
 .hero-image img {
