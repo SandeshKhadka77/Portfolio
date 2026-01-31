@@ -52,7 +52,7 @@
   color: var(--white);
 }
 
-/* Underline animation */
+/* Underline red*/
 .nav-links a::after {
   content: "";
   position: absolute;

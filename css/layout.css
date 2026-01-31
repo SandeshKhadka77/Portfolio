@@ -16,6 +16,7 @@
 .hero-content {
   max-width: 540px;
   animation: fadeUp 1s ease forwards;
+  
 }
 
 .hero-role {
@@ -47,10 +48,12 @@
 }
 
 /* RIGHT HERO IMAGE */
-
 .hero-image {
   flex-shrink: 0;
+  position: sticky;
+  top: 120px;
 }
+
 
 .hero-image img {
   width: 420px;
