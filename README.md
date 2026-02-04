@@ -3,7 +3,7 @@
 A personal portfolio website built using **HTML, CSS, and JavaScript**, designed to showcase my skills, projects, and experience in a clean and modern way.
 
  **Live Demo:**
-👉 [https://sandeshkhadka77.github.io/Portfolio/](https://sandeshkhadka77.github.io/Portfolio/)
+ [https://sandeshkhadka77.github.io/Portfolio/](https://sandeshkhadka77.github.io/Portfolio/)
 
 ---
 
@@ -14,7 +14,6 @@ The project focuses on:
 
 * Clean and minimal UI
 * Smooth animations
-* Beginner-friendly code structure
 * Proper GitHub workflow with feature branches
 * Deployment using GitHub Pages
 
@@ -35,8 +34,6 @@ The project focuses on:
 * **Primary Color:** Dark Blue
 * **Secondary Color:** Red
 * **Accent Color:** White
-
-The hero section includes a **sticky image scroll effect** to create a modern parallax-like experience.
 
 ---
 
@@ -86,7 +83,7 @@ Each phase follows a **real-world GitHub workflow** using branches and pull requ
 The website is deployed using **GitHub Pages** from the `main` branch.
 
 Live URL:
-👉 [https://sandeshkhadka77.github.io/Portfolio/](https://sandeshkhadka77.github.io/Portfolio/)
+ [https://sandeshkhadka77.github.io/Portfolio/](https://sandeshkhadka77.github.io/Portfolio/)
 
 ---
 
