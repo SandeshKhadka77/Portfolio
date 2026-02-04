@@ -1,13 +1,13 @@
-# Portfolio Website 🌐
+## Portfolio Website 
 
 A personal portfolio website built using **HTML, CSS, and JavaScript**, designed to showcase my skills, projects, and experience in a clean and modern way.
 
-🔗 **Live Demo:**
+ **Live Demo:**
 👉 [https://sandeshkhadka77.github.io/Portfolio/](https://sandeshkhadka77.github.io/Portfolio/)
 
 ---
 
-## 📌 About the Project
+##  About the Project
 
 This portfolio website is inspired by modern UI/UX portfolio designs and built with a **step-by-step modular approach**.
 The project focuses on:
@@ -20,7 +20,7 @@ The project focuses on:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **HTML5** – Structure
 * **CSS3** – Styling & animations
@@ -30,7 +30,7 @@ The project focuses on:
 
 ---
 
-## 🎨 Design Theme
+##  Design Theme
 
 * **Primary Color:** Dark Blue
 * **Secondary Color:** Red
@@ -40,7 +40,7 @@ The hero section includes a **sticky image scroll effect** to create a modern pa
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 portfolio-website/
@@ -68,17 +68,7 @@ portfolio-website/
 
 ---
 
-## 🚀 Features
-
-* Sticky navigation bar
-* Animated hover effects
-* Hero section with sticky image on scroll
-* Responsive layout
-* Clean and readable beginner-friendly code
-
----
-
-## 🌱 Learning Approach
+##  Learning Approach
 
 This project is being developed **phase by phase**:
 
@@ -91,7 +81,7 @@ Each phase follows a **real-world GitHub workflow** using branches and pull requ
 
 ---
 
-## 📦 Deployment
+##  Deployment
 
 The website is deployed using **GitHub Pages** from the `main` branch.
 
@@ -100,14 +90,14 @@ Live URL:
 
 ---
 
-## 🙌 Acknowledgements
+##  Acknowledgements
 
 * Design inspiration from modern UI/UX portfolios
 * Google Fonts for typography
 
 ---
 
-## 📫 Contact
+##  Contact
 
 If you’d like to connect or give feedback:
 
@@ -115,4 +105,4 @@ If you’d like to connect or give feedback:
 
 ---
 
-⭐ If you like this project, feel free to star the repository!
+ If you like this project, feel free to star the repository!
