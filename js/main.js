@@ -1,4 +1,4 @@
-// Reveal sections on scroll || About & Skills Section
+// reveal sections on scroll
 
 document.addEventListener("DOMContentLoaded", () => {
   const sections = document.querySelectorAll(".section");
@@ -21,5 +21,5 @@ document.addEventListener("DOMContentLoaded", () => {
     observer.observe(section);
   });
 });
-// End of About & Skills Section
+
 
