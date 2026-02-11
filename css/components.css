@@ -1,5 +1,4 @@
-/* 
-   NAVBAR */
+/* NAVBAR */
 
 .navbar {
   position: sticky;
@@ -67,4 +66,73 @@
 .nav-links a:hover::after,
 .nav-links a.active::after {
   width: 100%;
+}
+
+/*FOOTER*/
+
+.footer {
+  background-color: #0f172a;
+  color: #e2e8f0;
+  padding-top: 60px;
+  margin-top: 80px;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 40px;
+  padding-bottom: 40px;
+}
+
+.footer h3,
+.footer h4 {
+  margin-bottom: 16px;
+  font-weight: 600;
+}
+
+.footer p {
+  margin-bottom: 8px;
+  font-size: 14px;
+  color: #94a3b8;
+}
+
+.footer ul {
+  list-style: none;
+  padding: 0;
+}
+
+.footer ul li {
+  margin-bottom: 8px;
+}
+
+.footer a {
+  text-decoration: none;
+  color: #94a3b8;
+  font-size: 14px;
+  transition: 0.3s ease;
+}
+
+.footer a:hover {
+  color: #ffffff;
+}
+
+.footer-social {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.footer-bottom {
+  text-align: center;
+  padding: 20px 0;
+  border-top: 1px solid #1e293b;
+  font-size: 13px;
+  color: #64748b;
+}
+
+@media (max-width: 768px) {
+  .footer-container {
+    flex-direction: column;
+  }
 }
