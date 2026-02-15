@@ -1,10 +1,10 @@
-/* NAVBAR */
+/* Navbar */
 
 .navbar {
   position: sticky;
   top: 0;
   width: 100%;
-  background-color: var(--primary-dark);
+  background-color: #0a192f;
   z-index: 1000;
 }
 
@@ -12,26 +12,23 @@
   max-width: 1200px;
   margin: auto;
   padding: 20px 24px;
-
   display: flex;
-  align-items: center;
   justify-content: space-between;
+  align-items: center;
 }
 
-/* Logo */
 .logo a {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-size: 24px;
   font-weight: 700;
-  color: var(--white);
+  color: #ffffff;
   text-decoration: none;
 }
 
 .logo span {
-  color: var(--secondary-red);
+  color: #ff4d4d;
 }
 
-/* Nav links */
 .nav-links {
   list-style: none;
   display: flex;
@@ -39,28 +36,26 @@
 }
 
 .nav-links a {
-  position: relative;
   text-decoration: none;
   font-size: 15px;
-  color: var(--text-light);
-  transition: color 0.3s ease;
+  color: #ccd6f6;
+  position: relative;
+  transition: 0.3s;
 }
 
-/* Hover color */
 .nav-links a:hover {
-  color: var(--white);
+  color: #ffffff;
 }
 
-/* Underline red*/
 .nav-links a::after {
   content: "";
   position: absolute;
   left: 0;
   bottom: -6px;
-  width: 0%;
+  width: 0;
   height: 2px;
-  background-color: var(--secondary-red);
-  transition: width 0.3s ease;
+  background-color: #ff4d4d;
+  transition: 0.3s;
 }
 
 .nav-links a:hover::after,
@@ -68,7 +63,8 @@
   width: 100%;
 }
 
-/*FOOTER*/
+
+/* Footer */
 
 .footer {
   background-color: #0f172a;
@@ -88,7 +84,6 @@
 .footer h3,
 .footer h4 {
   margin-bottom: 16px;
-  font-weight: 600;
 }
 
 .footer p {
@@ -99,7 +94,6 @@
 
 .footer ul {
   list-style: none;
-  padding: 0;
 }
 
 .footer ul li {
@@ -110,7 +104,7 @@
   text-decoration: none;
   color: #94a3b8;
   font-size: 14px;
-  transition: 0.3s ease;
+  transition: 0.3s;
 }
 
 .footer a:hover {
