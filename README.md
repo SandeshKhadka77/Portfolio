@@ -7,18 +7,6 @@ A personal portfolio website built using **HTML, CSS, and JavaScript**, designed
 
 ---
 
-##  About the Project
-
-This portfolio website is inspired by modern UI/UX portfolio designs and built with a **step-by-step modular approach**.
-The project focuses on:
-
-* Clean and minimal UI
-* Smooth animations
-* Proper GitHub workflow with feature branches
-* Deployment using GitHub Pages
-
----
-
 ##  Tech Stack
 
 * **HTML5** – Structure
@@ -65,32 +53,6 @@ portfolio-website/
 
 ---
 
-##  Learning Approach
-
-This project is being developed **phase by phase**:
-
-* Phase 0: Project setup
-* Phase 1: Navbar
-* Phase 2: Hero section
-* Phase 3+: About, Projects, Contact (ongoing)
-
-Each phase follows a **real-world GitHub workflow** using branches and pull requests.
-
----
-
-##  Deployment
-
-The website is deployed using **GitHub Pages** from the `main` branch.
-
-Live URL:
- [https://sandeshkhadka77.github.io/Portfolio/](https://sandeshkhadka77.github.io/Portfolio/)
-
----
-
-##  Acknowledgements
-
-* Design inspiration from modern UI/UX portfolios
-* Google Fonts for typography
 
 ---
 
