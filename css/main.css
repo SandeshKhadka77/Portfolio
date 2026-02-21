@@ -125,22 +125,29 @@ h1, h2, h3 {
 
 
 /* About Section */
-
-#about {
-  background-color: #020c1b;
+.about {
+  padding: 100px 20px;
 }
 
-.about-text {
-  max-width: 900px;
-  margin: 0 auto 16px;
-  text-align: center;
-  color: #ccd6f6;
+.about-timeline {
+  max-width: 800px;
+  margin: auto;
+  border-left: 3px solid #ff4c4c;
+  padding-left: 30px;
 }
 
-.about-focus {
-  text-align: center;
-  color: #ff4d4d;
-  font-weight: 700;
+.timeline-item {
+  margin-bottom: 40px;
+  transition: 0.3s ease;
+}
+
+.timeline-item:hover {
+  transform: translateX(5px);
+}
+
+.highlight {
+  color: #ff4c4c;
+  font-weight: bold;
 }
 
 
