@@ -5,6 +5,9 @@ A personal portfolio website built using **HTML, CSS, and JavaScript**, designed
  **Live Demo:**
  [https://sandeshkhadka77.github.io/Portfolio/](https://sandeshkhadka77.github.io/Portfolio/)
 
+**FIGMA DESIGN**
+https://www.figma.com/proto/EP9tTsXVD9C9rWF21bC69q/Untitled?node-id=1-9&t=KvjfQ5zivwufDJzr-1
+
 ---
 
 ##  Tech Stack
